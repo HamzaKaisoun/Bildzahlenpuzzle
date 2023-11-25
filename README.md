@@ -1,21 +1,21 @@
 # Bildzahlenpuzzle
 
-##PROJEKTBEZEICHNUNG:
+## PROJEKTBEZEICHNUNG:
 Sliding Puzzle Game
 
-##PROJEKTZWECK:
+## PROJEKTZWECK:
 Das Projekt implementiert ein Schiebepuzzle-Spiel, bei dem der Benutzer zwischen einem Zahlenpuzzle und einem Bildpuzzle wählen kann. Ziel ist es, die Puzzlestücke in die richtige Reihenfolge zu bringen.
 
-##VERSION oder DATUM:
+## VERSION oder DATUM:
 Datum der letzten Aktualisierung: 25. November 2021
 
-##WIE IST DAS PROJEKT ZU STARTEN:
+## WIE IST DAS PROJEKT ZU STARTEN:
 Das Projekt kann gestartet werden, indem die Klasse Main ausgeführt wird. Dies öffnet das Hauptfenster des Spiels, in dem der Benutzer Schwierigkeitsgrade wählen kann und zwischen Zahlen- und Bildpuzzles wechseln kann.
 
-##AUTOR:
+## AUTOR:
 Hamza Kaisoun
 
-##BENUTZERHINWEISE:
+## BENUTZERHINWEISE:
 
 Das Spiel bietet Schwierigkeitsgrade von 3x3 bis 5x5 an.
 Der Benutzer kann zwischen einem Zahlenpuzzle und einem Bildpuzzle wählen.
