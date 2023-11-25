@@ -6,7 +6,7 @@ Sliding Puzzle Game
 #### PROJEKTZWECK:
 Das Projekt implementiert ein Schiebepuzzle-Spiel, bei dem der Benutzer zwischen einem Zahlenpuzzle und einem Bildpuzzle wählen kann. Ziel ist es, die Puzzlestücke in die richtige Reihenfolge zu bringen.
 
-#### VERSION oder DATUM:
+#### DATUM:
 Datum der letzten Aktualisierung: 25. November 2021
 
 #### WIE IST DAS PROJEKT ZU STARTEN:
